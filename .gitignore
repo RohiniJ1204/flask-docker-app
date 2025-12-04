@@ -1,0 +1,20 @@
+# Byte-compiled / optimized files
+_pycache_/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# Environment variables
+*.env
+
+# VS Code
+.vscode/
+
+# Docker
+*.log
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
