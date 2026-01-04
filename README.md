@@ -4,4 +4,3 @@ it includes logging and a health check endpoint.
 
 ---
 
-## project Structure
